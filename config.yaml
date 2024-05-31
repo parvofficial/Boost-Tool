@@ -1,0 +1,25 @@
+lisence_key: ""
+proxyless: True
+Hide: True # Hide Tokens promos and vccs last letters 
+Webhook:
+  Webhook_Logging: True
+  webhook_url: "https://discord.com/api/webhooks/1238916027354451978/mKMwqjz3mpj5a1fHf8Bz8eq9UyVYHOAQSQSj6SL9r-391pelljiMZj-IVmSsno7e4-2B" # Webhook Url
+  Arrow_Emojis_ID: "<:yoooo:1192575940316889118>" # Arrow Emoji ID for Embed
+
+Captcha:
+  Solvercaptcha: False # Enable if you want to Tacle Captcha
+  use_proxies: False # Enable if you want Fast and Good Captcha Solves
+  Captcha_Services: 'capsolver.com'
+  key: "CAP-B32EECF85FE6483B81FA63C2CA9CACE5" # Capsolver.com Api key
+
+Password_Changer:
+  Password_Changer: True # Set True if you want to Change Password of tokens after Boost
+  random_Password: False # Set True if you want to Enable
+  Password: 'Imontopbaby' # Password for change
+
+Customization:
+  Customization: True # Set True if you want to Enable Customization
+  Global_name: '.gg/rexamine'
+  Bio: 'cheapest Boost in .gg/rexamine'
+  Pronouns: 'rexa boosts'
+  Accent_color: '460037'
